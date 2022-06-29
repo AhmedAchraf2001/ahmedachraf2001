@@ -4,7 +4,6 @@
 </div> 
 
 <br/>  
-<br/>    
 
 ### **<div align="center">I'm Ahmed 🌍, Ai Dev and a Biomedical Engineer since 2019</div>**  
   
