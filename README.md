@@ -1,5 +1,5 @@
 <div width="100%">
- <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" width="90%" height="300px">  
+ <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" margin-left="6%" align="center" width="90%" height="300px">  
 
 </div> 
 
@@ -78,6 +78,6 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ahmedachraf2001&&style=flat-square" align="center" />
 </div>  
   
