@@ -1,7 +1,7 @@
 <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="left" style="width: 100%" />  
   
 
-<br/>  
+<br>  
   
 
 ### **<div align="center">I'm Ahmed 🌍, Ai Dev and a Biomedical Engineer since 2019</div>**  
@@ -19,8 +19,6 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
