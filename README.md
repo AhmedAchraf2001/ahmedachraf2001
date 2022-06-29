@@ -1,9 +1,10 @@
 <div width="100%">
- <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="left" width="100%">  
+ <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" width="90%" height="300px">  
 
 </div> 
 
-<br>  
+<br/>  
+<br/>  
   
 
 ### **<div align="center">I'm Ahmed 🌍, Ai Dev and a Biomedical Engineer since 2019</div>**  
