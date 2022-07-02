@@ -1,5 +1,5 @@
-<div width="100%">
- <img  align="center" src="C:\Users\10\Downloads\messagif\">  
+<div>
+ <img  align="center" src="X:\gitHub\ahmedachraf2001\messagif.gif">  
 
 </div> 
 
