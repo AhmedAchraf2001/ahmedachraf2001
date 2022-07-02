@@ -8,6 +8,8 @@
 ### **<div align="center">I'm Ahmed 🌍, Ai Dev and a Biomedical Engineer since 2019</div>**  
   
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 - I'm currently learning Mathematics for Machine Learning Specialization from coursera  
   
 
@@ -20,21 +22,11 @@
 
 <br/>  
 
-
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
+<br/> 
 <br/>  
+
+
+
 
 
 ## Connect with me  
