@@ -1,5 +1,5 @@
 <div width="100%">
- <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" margin-left="30%">  
+ <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" margin-left="30%" width="100%">  
 
 </div> 
 
@@ -36,7 +36,6 @@
 
 </td></tr></table>  
 
-<br/>  
 
 <br/>  
 
