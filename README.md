@@ -1,5 +1,5 @@
 <div width="100%">
- <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" align="center">  
+ <img algin="center" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" >  
 
 </div> 
 
