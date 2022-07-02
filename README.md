@@ -14,6 +14,7 @@
 <br/> 
 
 
+<p font-size="30px">
 - I'm currently learning Mathematics for Machine Learning Specialization from coursera  
   
 
@@ -21,6 +22,7 @@
   
 
 -  Fun fact: if you can't resist rape, enjoy it  
+</p>
 
 <br/> 
 
