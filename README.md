@@ -1,5 +1,5 @@
 <div width="100%">
- <img margin-left="30%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" >  
+ <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" margin-left="30%">  
 
 </div> 
 
@@ -19,6 +19,7 @@
 
 <br/>  
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
