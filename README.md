@@ -14,7 +14,8 @@
 <br/> 
 
 
-<p font-size="30px">
+<p font-size="36px">
+
 - I'm currently learning Mathematics for Machine Learning Specialization from coursera  
   
 
