@@ -1,6 +1,8 @@
 <div width="100%">
-    <div align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Hello+world+!;I'm+Ahmed+Achraf;Artificial+intelligence+Developer;a+Biomedical+Engineer+since+2019)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Hello+world+!;I'm+Ahmed+Achraf;Artificial+intelligence+Developer;a+Biomedical+Engineer+since+2019)](https://git.io/typing-svg)
+
 </div>
 </div>
 
