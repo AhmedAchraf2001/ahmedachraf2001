@@ -82,7 +82,8 @@
 
 <br/>  
 
-  
+[![Twitter Followers](https://img.shields.io/twitter/follow/AhmedAchraf2001?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+
 
 <br/>  
 
