@@ -56,7 +56,7 @@
 [![Twitter Followers](https://img.shields.io/twitter/follow/AhmedAchraf2001?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
 
 </div>
-<br/>
+
 
 ## Connect me  
 <div align="center">
