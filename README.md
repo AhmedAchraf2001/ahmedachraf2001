@@ -53,7 +53,7 @@
 <div align="center">
 
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/AhmedAchraf2001?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+[![Twitter Followers](https://img.shields.io/twitter/follow/AhmedAchraf2001?label=Twitter-Followers&logo=twitter&style=for-the-badge&color=blue)
 
 </div>
 
