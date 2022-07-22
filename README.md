@@ -81,14 +81,17 @@
 
 
 <br/>  
+<div align="center">
+
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/AhmedAchraf2001?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
 
+</div>
 
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ahmedachraf2001&&style=flat-square" align="center" />
-</div>  
+</div>
+  
   
 
