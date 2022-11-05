@@ -7,7 +7,7 @@
 </div>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://www.velvetech.com/wp-content/uploads/2019/02/artificial-intelligence-healthcare-fb.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br/> 
 <br/>
