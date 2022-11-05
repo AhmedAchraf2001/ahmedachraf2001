@@ -97,13 +97,14 @@
   
 <br/>
 
+<!-- font-size="36px" -->
+
+<p align="center">
 
 
-<p font-size="36px" align="center">
-
-
-والســلام ختــام
-
+والســلام ختـــام
+</p>
+  
 <br/> 
 
 
