@@ -7,7 +7,7 @@
 </div>
 </div>
 
-<img align="right" alt="Coding" width="200" src="obelisk.PNG">
+<img align="right" alt="Coding" width="250" src="obelisk.PNG">
 
 <br/> 
 <br/>
