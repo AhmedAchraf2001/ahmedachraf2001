@@ -100,13 +100,7 @@
 <!-- font-size="36px" -->
 
 <div align="center" width="100%">
-
-<p align="center">
-
-
-والســلام ختـــام
-</p>
-  
+<img align="right" alt="Coding" width="400" src="aaaa.PNG">
 </div>
 <br/> 
 
