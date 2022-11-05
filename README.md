@@ -7,10 +7,11 @@
 </div>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="obelisk.PNG">
 
 <br/> 
 <br/>
+<!-- src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" -->
 
 
 
