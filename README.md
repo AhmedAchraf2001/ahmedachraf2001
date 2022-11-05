@@ -99,7 +99,7 @@
 
 
 
-<p font-size="36px">
+<p font-size="36px" align="center">
 
 
 والســلام ختــام
