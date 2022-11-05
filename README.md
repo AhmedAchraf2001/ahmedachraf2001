@@ -99,7 +99,7 @@
 
 <!-- font-size="36px" -->
 
-<div width="100%">
+<div align="center" width="100%">
 
 <p align="center">
 
