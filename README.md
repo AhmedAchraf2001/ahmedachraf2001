@@ -99,12 +99,15 @@
 
 <!-- font-size="36px" -->
 
+<div width="100%">
+
 <p align="center">
 
 
 والســلام ختـــام
 </p>
   
+</div>
 <br/> 
 
 
