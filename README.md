@@ -100,7 +100,7 @@
 <!-- font-size="36px" -->
 
 <div align="center" width="100%">
-<img align="center" alt="Coding" width="100" src="aaaa.PNG">
+<img align="center" alt="Coding" width="250" src="aaaa.PNG">
 </div>
 <br/> 
 
