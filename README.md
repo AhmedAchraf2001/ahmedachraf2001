@@ -7,7 +7,7 @@
 </div>
 </div>
 
-<img align="right" alt="Coding" width="280" src="index.png">
+<img align="right" alt="Coding" width="280" src="index.jpg">
 
 <br/> 
 <br/>
