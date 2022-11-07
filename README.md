@@ -1,8 +1,8 @@
 <br/> 
-<div width="100%">
+<div >
 <div>
-<!-- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Hello+world+!,;I'm+Ahmed+Achraf;Artificial+intelligence+Developer)](https://git.io/typing-svg) -->
+  
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Hello+world+!,;I'm+Ahmed+Achraf;Artificial+intelligence+Developer)](https://git.io/typing-svg) -->
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=700&color=000000&width=435&lines=Hello+world+!%2C;I'm+Ahmed+Achraf;Artificial+Intelligence+Dev.;B.Sc+of+Biomedical+Engineering+Dept.+2024)](https://git.io/typing-svg)
 
