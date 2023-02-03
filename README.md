@@ -5,7 +5,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Hello+world+!,;it's+me+Ahmed+Achraf;Artificial+intelligence+Developer)](https://git.io/typing-svg) -->
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=80&color=000000&width=435&lines=Hello+world+!%2C;it's+me+Ahmed+Achraf;Artificial+Intelligence+Dev.;B.Sc+of+Biomedical+Engineering+Dept.+2024)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="istockphoto-1218827343-612x612.jpg">
 </div>
 
 
