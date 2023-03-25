@@ -30,6 +30,8 @@
 
 <br/> 
 
+>   For more information you can access   **[CV](https://github.com/AhmedAchraf2001/CV/blob/main/Ahmed%20Ashraf-CV.pdf)**
+  
 </td><td valign="top" width="33%">
 
 
