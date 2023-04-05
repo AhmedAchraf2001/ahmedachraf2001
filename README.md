@@ -17,13 +17,20 @@
 
 <p font-size="36px">
 
-- I'm currently learning Mathematics for Machine Learning Specialization from coursera  
-  
 
--  Ask me about anything related to Artificail intelligence field or related technologies  
+ - about to graduate from Biomedical Engineering college, Helwan university.
   
+- I have a diploma in Ai field with knowelage to apply ML and DL algorithms.
 
--  Fun fact: if you can't resist rape, enjoy it  
+- 3 years experience with **C**, **C++** and **python**.
+
+- Background with version control systems such as **Git** and **Github**.
+
+- Containers like **Docker**.
+
+- Dealling with different OS like **windows** and **linux**.
+
+- Ability of accessing the data from database using **SQL** and **Mongodb**. 
 
 
 <br/> 
