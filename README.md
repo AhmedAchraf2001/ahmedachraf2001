@@ -11,7 +11,6 @@
 
 
 
-
 <!-- src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" -->
 
 
@@ -19,7 +18,6 @@
 <p font-size="36px">
 
 
-<br/> 
   
 - I'm Currently learning **Tensorflow 2.0: Deep Learning and Artificial Intelligence Course**.
   
@@ -41,9 +39,6 @@
 
 </td></tr></table>  
 
-<br/> 
-
-<br/> 
 <br/> 
 
 <br/> 
