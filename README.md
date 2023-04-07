@@ -6,7 +6,7 @@
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=80&color=000000&width=435&lines=Hello+world+!%2C;it's+me+Ahmed+Achraf;Artificial+Intelligence+Dev.;B.Sc+of+Biomedical+Engineering+Dept.+2024)
 
-<img align="right" alt="Coding" width="490" src="background-removebg-preview.png">
+<img align="right" alt="Coding" width="430" src="background-removebg-preview.png">
 </div>
 
 
