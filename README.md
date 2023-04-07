@@ -6,7 +6,7 @@
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=80&color=000000&width=435&lines=Hello+world+!%2C;it's+me+Ahmed+Achraf;Artificial+Intelligence+Dev.;B.Sc+of+Biomedical+Engineering+Dept.+2024)
 
-<img align="right" alt="Coding" width="430" src="background-removebg-preview.png">
+<img align="right" alt="Coding" width="380" src="background-removebg-preview.png">
 </div>
 
 
@@ -19,20 +19,11 @@
 <p font-size="36px">
 
 
- - about to graduate from Biomedical Engineering college, Helwan university.
+<br/> 
   
-- I have a diploma in Ai field with knowelage to apply ML and DL algorithms.
-
-- 3 years experience with **C**, **C++** and **python**.
-
-- Background with version control systems such as **Git** and **Github**.
-
-- Containers like **Docker**.
-
-- Dealling with different OS like **windows** and **linux**.
-
-- Ability of accessing the data from database using **SQL** and **Mongodb**. 
-
+- I'm Currently learning **Tensorflow 2.0: Deep Learning and Artificial Intelligence Course**.
+  
+- Feel Free to Ask me about Artificial intelligence.
 
 <br/> 
 
@@ -50,7 +41,25 @@
 
 </td></tr></table>  
 
+<br/> 
 
+<br/> 
+<br/> 
+
+<br/> 
+
+
+## Skills
+
+- 3 years experience with **C**, **C++** and **python**.
+  
+- Version Control Systems: **Git**.
+
+- Database: **SQL** and **Mongodb**. 
+
+- OS: **windows** and **linux**.
+
+- Containers: **Docker**.
 
 
  
