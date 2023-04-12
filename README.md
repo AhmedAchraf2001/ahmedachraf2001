@@ -42,7 +42,7 @@
 <br/> 
 
 
-
+<!-- 
 ## Skills
 
 - 3 years experience with **C**, **C++** and **python**.
@@ -55,7 +55,7 @@
 
 - Containers: **Docker**.
 
-
+ -->
  
 <br/>  
 
