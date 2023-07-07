@@ -27,7 +27,7 @@
 
 <br/> 
 
-  </\>    For more information, you can easily access   **[CV](https://drive.google.com/uc?export=download&id=1XPMuKpTA9o96VHDYKqzvcKRWG084343t))**
+  </\>    For more information, you can easily access   **[CV](https://drive.google.com/uc?export=download&id=1XPMuKpTA9o96VHDYKqzvcKRWG084343t)**
   
 </td><td valign="top" width="33%">
 
