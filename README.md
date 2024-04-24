@@ -19,7 +19,7 @@
   
 - I'm Currently learning **Tensorflow 2.0: Deep Learning and Artificial Intelligence Course**.
   
-- Last project was about **Deep Brain Stimualtion for Parkinson Patient: Optimization Skull Array for Electodes position**.
+<!-- - Last project was about **Deep Brain Stimualtion for Parkinson Patient: Optimization Skull Array for Electodes position**. -->
   
 - Feel Free to Ask me about Artificial intelligence.
 
